@@ -15,7 +15,6 @@ Uygulama Hakkında:
 
 <h3>Uygulamada aldığınız bir hata veya sormak istediğiniz bir soru olursa benimle iletişime geçebilirsiniz.</h3>
 
-<hr><br>
 
 <h5>Splash Screen</h5><br>
 Bu ekranı kullanarak giriş yapabilir ve kayıt olabilirsiniz (Veteriner, Kullanıcı).<br>
