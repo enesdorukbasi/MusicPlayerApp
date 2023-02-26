@@ -13,7 +13,7 @@ Uygulama Hakkında:
 -Veritabanı olarak SQFLITE kullanıyor.
 -MVVM mimarisini kullanıyor (Mobx).
 
-<h1>Uygulamada aldığınız bir hata veya sormak istediğiniz bir soru olursa benimle iletişime geçebilirsiniz.</h1>
+<h3>Uygulamada aldığınız bir hata veya sormak istediğiniz bir soru olursa benimle iletişime geçebilirsiniz.</h3>
 
 <hr><br>
 
