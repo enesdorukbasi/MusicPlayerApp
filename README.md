@@ -18,7 +18,7 @@ Uygulama Hakkında:
 <h3>Not : </h3> Aşağıda ki yollara gerekli api keyleri yerleştiriniz.<br>
 <br>
 android -> app -> src -> main -> AndroidManifest.xml<br>
-yolu takip edilir ve  içerisinde ki admob eklemek için kullanılan metadata ya application-id yazılır.<br>
+yolu takip edilir ve  içerisinde ki admob eklemek için kullanılan metadata ya application-id yazılır.<br><br>
 
 lib -> utils -> constants.dart<br>
 yolu izlenir ve class içerisinde bulunan youtube_api_key değişkenine google cloud service den alınan youtube api keyi yazılır.<br>
