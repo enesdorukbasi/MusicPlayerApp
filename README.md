@@ -60,3 +60,9 @@ Altta bulunan 2 görsel bottom sheet içerisinde bulunan sekmelerdir. Bu bottom 
 <img src="https://user-images.githubusercontent.com/51122010/221430070-f8532f27-d705-4ffa-8658-fc62f204a15c.jpg" width="300"/>
 
 <img src="https://user-images.githubusercontent.com/51122010/221430098-a1a8e5d0-df51-47f9-b866-ba557188a05c.jpg" width="300"/>
+
+<br>
+Ayrıca müzikler arkaplanda da oynatılabilir ve bildirim çubuğu üzerinden kontrol edilebilir.<br>
+<img src="https://user-images.githubusercontent.com/51122010/221430278-acdf29c3-b2cc-4128-b428-e263fb793452.jpg" width="300"/>
+
+
