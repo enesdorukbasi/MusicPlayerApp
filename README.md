@@ -15,6 +15,18 @@ Uygulama Hakkında:
 
 <h3>Uygulamada aldığınız bir hata veya sormak istediğiniz bir soru olursa benimle iletişime geçebilirsiniz.</h3>
 
+<h3>Not : </h3> Aşağıda ki yollara gerekli api keyleri yerleştiriniz.<br>
+<br>
+android -> app -> src -> main -> AndroidManifest.xml<br>
+yolu takip edilir ve  içerisinde ki admob eklemek için kullanılan metadata ya application-id yazılır.<br>
+
+lib -> utils -> constants.dart<br>
+yolu izlenir ve class içerisinde bulunan youtube_api_key değişkenine google cloud service den alınan youtube api keyi yazılır.<br>
+
+lib -> network_musics -> views -> features -> music_item.dart<br>
+yolu izlenir ve rewardedAdUnitId değişkenine rewarded admob id'si yazılır.<br>
+
+
 
 <h5>Splash Screen</h5><br>
 Bu ekranı kullanarak giriş yapabilir ve kayıt olabilirsiniz (Veteriner, Kullanıcı).<br>
